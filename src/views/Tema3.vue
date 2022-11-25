@@ -181,8 +181,9 @@
         .titulo-segundo.color-acento-contenido
           h2 3.2 Instrumentos y elementos de monitoreo
         
-        p Es importante conocer algunos elementos sobre los instrumentos y las herramientas de monitoreo para la evaluación y el estudio de suelos.
-           
+        p.txt-instrum-monit-tema3 Es importante conocer algunos elementos sobre los instrumentos y las herramientas de monitoreo para la evaluación y el estudio de suelos.
+        
+
         .col-lg-4.d-none.d-lg-flex
           figure(data-aos="zoom-in")
             img(src="@/assets/curso/temas/img-acordeon-inst-monitoreo.png", alt="alt").m-auto

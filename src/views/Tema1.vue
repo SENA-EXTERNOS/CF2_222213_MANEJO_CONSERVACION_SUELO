@@ -21,15 +21,17 @@
         .col-lg-5
           figure
             img(data-aos="fade-left")(src="@/assets/curso/temas/img-targ1-tema1.png").img-targ1-tema1
-          p.texto-invisible Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
+      
+      p.txt-final-tarj1 La conservación del suelo como capa externa de la tierra y como factor determinante en ciclos de transformación de nutrientes para la satisfacción de necesidades humanas y la protección de la biodiversidad.
 
+
+    br
     br
     br
     br
 
     .row.container.justify-content-around.align-items-center
 
-      p La conservación del suelo como capa externa de la tierra y como factor determinante en ciclos de transformación de nutrientes para la satisfacción de necesidades humanas y la protección de la biodiversidad.
       
       .tarjeta.bloque-slider1-tema1.p-4
         
@@ -293,7 +295,7 @@
 
               .col-md-6
                 figure
-                  img(src='@/assets/curso/temas/img-no-req-maq-pesad-tema1.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/img-no-req-maq-pesad-tema1.png', alt='Texto que describa la imagen').img-maq-pesad-tema1
                   //figcaption Leyenda de la imagen
 
             
@@ -302,9 +304,14 @@
               .col-md-6.mb-4.mb-md-0
                 h4.text-slider-nav-tit Labranza mínima
                 p.text-slider-nav-tit La labranza mínima se realiza de tres maneras diferentes:
-                  p 1. La labranza cero, o siembra directa, permite sembrar cultivos sin que estos requieran preparación mecánica o alteración del suelo, aflojando un área muy estrecha y poco profunda, en la cual se ubicarán las semillas.
-                  p #[strong faltan las otras]
-
+                  
+                  ol.lista-ol--cuadro
+                    li 
+                      .lista-ol--cuadro__vineta
+                        span I)
+                      | La labranza cero, o siembra directa, permite sembrar cultivos sin que estos requieran preparación mecánica o alteración del suelo, aflojando un área muy estrecha y poco profunda, en la cual se ubicarán las semillas.
+                
+                
 
               .col-md-6
                 figure
@@ -328,7 +335,12 @@
 
               .col-md-6.mb-4.mb-md-0
                 h4.text-slider-nav-tit Suelo sin remover
-                p.text-slider-nav-tit La labranza mínima en surcos, o continua, remueve el suelo en surcos de 20 a 30 centímetros, allí se ubicará el cultivo, dejando suelo sin remover entre estos.
+                p.text-slider-nav-tit
+                  ol.lista-ol--cuadro
+                      li 
+                        .lista-ol--cuadro__vineta
+                          span II)
+                        | La labranza mínima en surcos, o continua, remueve el suelo en surcos de 20 a 30 centímetros, allí se ubicará el cultivo, dejando suelo sin remover entre estos.
 
               .col-md-6
                 figure
@@ -354,7 +366,12 @@
 
               .col-md-6.mb-4.mb-md-0
                 h4.text-slider-nav-tit Promueve crecimiento raíces
-                p.text-slider-nav-tit La labranza mínima puntual, o sitio a sitio, prepara sitios puntuales del suelo, enfocándose en alterar solo una pequeña porción del suelo, creando una fila de plantas y dejando la mayor parte de la superficie sin perturbar. Este tipo de labranza fomenta el crecimiento más profundo de las raíces y promueve el movimiento del agua.
+                p.text-slider-nav-tit 
+                  ol.lista-ol--cuadro
+                      li 
+                        .lista-ol--cuadro__vineta
+                          span IV)
+                        | La labranza mínima puntual, o sitio a sitio, prepara sitios puntuales del suelo, enfocándose en alterar solo una pequeña porción del suelo, creando una fila de plantas y dejando la mayor parte de la superficie sin perturbar. Este tipo de labranza fomenta el crecimiento más profundo de las raíces y promueve el movimiento del agua.
               
               .col-md-6
                 figure
@@ -713,14 +730,34 @@
         .col-lg-7
           LineaTiempoD.color-secundario
             p(numero="1" titulo="Control alelopático") Para el control alelopático se utilizan cuatro tipos de plantas que brindan beneficios a los cultivos. 
-              br
-              | Plantas trampa, se siembran alrededor de la zona donde se encuentra el cultivo, cumplen con la función de atraer a los insectos y desviarlos. Igualmente, se pueden ubicar entre los surcos, concentrando, allí, la población de plagas, facilitando su captura manual.
+              ol.lista-ol--cuadro
+                li 
+                  .lista-ol--cuadro__vineta.color-cuadro-text-tema1
+                    span I)
+                  | Plantas trampa, se siembran alrededor de la zona donde se encuentra el cultivo, cumplen con la función de atraer a los insectos y desviarlos. Igualmente, se pueden ubicar entre los surcos, concentrando, allí, la población de plagas, facilitando su captura manual.
 
-            p(numero="2" titulo="Plantas repelentes") Plantas repelentes, su aroma fuerte mantiene alejados a los insectos por hasta 10 metros, se siembran bordeando los extremos de cada surco, lo que crea una barrera protectora.
+            p(numero="2" titulo="Plantas repelentes") 
+                ol.lista-ol--cuadro
+                  li 
+                    .lista-ol--cuadro__vineta.color-cuadro-text-tema1
+                      span II)
+                    | Plantas repelentes, su aroma fuerte mantiene alejados a los insectos por hasta 10 metros, se siembran bordeando los extremos de cada surco, lo que crea una barrera protectora.
 
-            p(numero="3" titulo="Plantas acompañantes") Plantas acompañantes, se siembran intercaladas en los cultivos. Generalmente, son plantas que producen aceites esenciales capaces de provocar efectos negativos en las plagas, expiden un olor desagradable para estas al combinar sus aceites esenciales con los de la planta de cultivo.
+            p(numero="3" titulo="Plantas acompañantes") 
 
-            p(numero="4" titulo="Plantas antagónicas") Plantas antagónicas, por medio de sus raíces, expulsan compuestos químicos causantes de efectos negativos en plantas vecinas.
+                ol.lista-ol--cuadro
+                  li 
+                    .lista-ol--cuadro__vineta.color-cuadro-text-tema1
+                      span III)
+                    | Plantas acompañantes, se siembran intercaladas en los cultivos. Generalmente, son plantas que producen aceites esenciales capaces de provocar efectos negativos en las plagas, expiden un olor desagradable para estas al combinar sus aceites esenciales con los de la planta de cultivo.
+
+            p(numero="4" titulo="Plantas antagónicas") 
+
+                ol.lista-ol--cuadro
+                  li 
+                    .lista-ol--cuadro__vineta.color-cuadro-text-tema1
+                      span IV)
+                    | Plantas antagónicas, por medio de sus raíces, expulsan compuestos químicos causantes de efectos negativos en plantas vecinas.
 
         .col-8.col-lg-5
           figure
