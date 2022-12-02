@@ -226,6 +226,22 @@ export default {
         'Cassma Consultores. (2018, abril 3). <em>Plan de Manejo Ambiental (PMA).</em> Cassma Consultores.',
       link: 'http://www.cassmaconsultores.com/plan-de-manejo-ambiental-pma/',
     },
+    {
+      referencia:
+        'Cherlinka, V. (2021). <em>Conservación del suelo: cómo manejarla e implementarla.</em> Eos Data Analytics.',
+      link: 'https://eos.com/es/blog/conservacion-del-suelo/',
+    },
+    {
+      referencia:
+        'Organización de las Naciones Unidas para la Alimentación y la Agricultura [FAO]. (2018). <em>Guía de buenas prácticas para la gestión y uso sostenible de los suelos en áreas rurales.</em>',
+      link: 'https://www.fao.org/3/i8864es/I8864ES.pdf',
+    },
+    {
+      referencia:
+        'Peñuela, L., Mejía, A. & Segura, G. (Eds.) (2017). <em>El manejo sostenible del suelo, clave para adaptarnos al cambio climático.</em> Alianza Fundación Natura, Fundación Horizonte Verde.',
+      link:
+        'https://natura.org.co/publicaciones/el-manejo-sostenible-del-suelo-clave-para-adpatarlos-al-cambio-climatico/',
+    },
   ],
   creditos: {
     liderEquipo: [

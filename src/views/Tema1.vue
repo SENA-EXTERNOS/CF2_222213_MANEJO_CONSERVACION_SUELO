@@ -233,7 +233,7 @@
 
         .col-lg-7
           .txt-conservacion-tema1.p-4
-            p.txt-introduccion El manejo adecuado del suelo como capa externa de la tierra y como factor determinante en ciclos de transformación de nutrientes para la satisfacción de necesidades humanas y la protección de la biodiversidad, con las técnicas apropiadas es posible recuperarlo, como veremos a continuación.
+            p.txt-introduccion La conservación implica buscar que los suelos puedan ser manejados de forma sostenible con los menores impactos posibles, para lograrlo, se deben ejercer unas buenas prácticas generales para su uso. Estas prácticas se dividen en el uso del suelo según su vocación, la labranza mínima, la utilización de abonos verdes u orgánicos o biofertilizantes, el empleo de coberturas permanentes, el uso de barreras y cercas vivas, el pastoreo controlado o rotativo, la rotación de cultivos, los policultivos o cultivos asociados, la diversificación funcional, las obras biomecánicas para el manejo del suelo y flujos de agua, y el control biológico y biopreparados (FAO, 2018).
     br
     br
     br
@@ -370,7 +370,7 @@
                   ol.lista-ol--cuadro
                       li 
                         .lista-ol--cuadro__vineta
-                          span IV)
+                          span III)
                         | La labranza mínima puntual, o sitio a sitio, prepara sitios puntuales del suelo, enfocándose en alterar solo una pequeña porción del suelo, creando una fila de plantas y dejando la mayor parte de la superficie sin perturbar. Este tipo de labranza fomenta el crecimiento más profundo de las raíces y promueve el movimiento del agua.
               
               .col-md-6
@@ -428,7 +428,7 @@
             br
             | Grupo III - Pastos: guinea, ovillo, insurgente y praderas.
             br
-            | Grupo IV - Diversos: alfalfa, frijol, haba, soya, guaje, garbanzo y trébole
+            | Grupo IV - Diversos: alfalfa, frijol, haba, soya, guaje, garbanzo y tréboles.
 
         .tarjeta.tarj-punto-caliente-tema1.p-3(x="45%" y="5%" numero="5")
           .h5.mb-2 Policultivos o cultivos asociados:
@@ -632,11 +632,11 @@
             AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta color-fondo-acordeon")
               .row(titulo="Control biológico")
                 .col-12
-                  p.mb-0 También se encuentran otros métodos como de control biológico como los bioinsecticidas, sustancias naturales capaces de controlar o eliminar las plagas en un cultivo, generalmente son extraídos de alguna planta, de insectos, de algún mineral o de microorganismos.
+                  p.mb-0 También se encuentran otros métodos como de #[strong  control biológico] como los bioinsecticidas, sustancias naturales capaces de controlar o eliminar las plagas en un cultivo, generalmente son extraídos de alguna planta, de insectos, de algún mineral o de microorganismos.
 
               .row(titulo="Bioinsecticidas")
                 .col-12
-                  p.mb-0 Los Bioisecticidas más utilizados en la agricultura tradicional son aquellos que provienen de infusiones, macerados y algunos tipos de cocciones, presentan beneficios como la disminución del uso de insecticidas, no generan resistencia en las plagas, no afectan a la salud humana, son económicos y se degradan con gran facilidad.
+                  p.mb-0 Los #[strong  Bioisecticidas] más utilizados en la agricultura tradicional son aquellos que provienen de infusiones, macerados y algunos tipos de cocciones, presentan beneficios como la disminución del uso de insecticidas, no generan resistencia en las plagas, no afectan a la salud humana, son económicos y se degradan con gran facilidad.
 
               .row(titulo="Sustancias naturales controlan plagas")
                 .col-12
@@ -691,7 +691,7 @@
             img(data-aos="fade-left")(src="@/assets/curso/temas/img-fondo-control-cultivos.png", alt="alt").img-fondo-control-cultivos
         
         .col-lg-7
-          p.txt-control-cultivos Dentro del manejo agroecológico de los cultivos se tiene algunos preparados y compuestos, como abonos orgánicos y biofertilizantes, que aportan materia orgánica al suelo, estos benefician las interacciones de los microorganismos presentes en el suelo. En el siguiente recurso, encontrará  más información sobre abonos orgánicos y biofertilizantes, en el siguiente link encuentras más información, anímate a explorar.
+          p.txt-control-cultivos Para el caso de ecosistemas estratégicos, como zonas de conservación o de producción forestal, el control biológico está recomendado como práctica que mantiene su aspecto natural. El control biológico consiste en la regulación de plagas por medio de la reproducción de sus enemigos naturales, lo que beneficia al suelo al disminuir la aplicación de insecticidas, herbicidas y fungicidas comerciales, mejorando, así, su calidad y evitando su contaminación. Además, esta estrategia controla plagas y enfermedades que podrían afectar el cultivo. 
           //p.texto-invisible Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit quam dolorum harum. Error laborum eaque nobis ab sit consequuntur repudiandae repellendus culpa harum officiis nesciunt, sint rem impedit iure magnam!
         .col-lg-5
             figure
