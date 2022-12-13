@@ -538,7 +538,7 @@
       
       .row 
         figure
-            img(src='@/assets/curso/temas/fondo-tarje-manejo-agroecologico.png', alt='Texto que describa la imagen').fondo-tarje-manejo-agroecologico
+            img(src='@/assets/curso/temas/fondo-tarje-manejo-agroecologico2.png', alt='Texto que describa la imagen').fondo-tarje-manejo-agroecologico
 
         .col-lg-7
 

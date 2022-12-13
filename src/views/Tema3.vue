@@ -85,7 +85,7 @@
 
         .row 
           figure
-              img(src='@/assets/curso/temas/img-fondo-tabs-tema3.png', alt='Texto que describa la imagen').img-fondo-tabs-tema3
+              img(src='@/assets/curso/temas/img2-fondo-tabs-tema3.png', alt='Texto que describa la imagen').img-fondo-tabs-tema3
           
 
           TabsC.color-primario.bloque-tabs-tema3
