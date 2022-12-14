@@ -22,7 +22,7 @@
         SlyderA(tipo="b")
           .row
             .col-md-6.mb-4.mb-md-0
-              h4.txt1-slider-tema2 Diagnóstico
+              //h4.txt1-slider-tema2 Diagnóstico
               p.txt1-slider-tema2 El diagnóstico se refiere al resultado de una evaluación ambiental detallada realizada en una zona determinada, cuyo objetivo es establecer las acciones que se llevarán a cabo para corregir, disminuir, prevenir y compensar los daños generados por la ejecución de prácticas no sostenibles de uso del suelo.  
 
             .col-md-6
@@ -32,7 +32,7 @@
 
           .row
             .col-md-6.mb-4.mb-md-0
-              h4.txt-slider-tema2 Ejecución
+              //h4.txt-slider-tema2 Ejecución
               p.txt-slider-tema2 La ejecución de un plan de manejo se divide en cuatro fases. Primero, en la delimitación, se establecen y documentan las problemáticas en la gestión sostenible de los suelos, esto se realiza con la ayuda de la comunidad y se revisa la disponibilidad de recursos económicos para una posible intervención.
 
             .col-md-6
@@ -42,7 +42,7 @@
 
           .row
             .col-md-6.mb-4.mb-md-0
-              h4.txt-slider-tema2 Prácticas a realizar
+              //h4.txt-slider-tema2 Prácticas a realizar
               p.txt-slider-tema2 Si los parámetros anteriores se cumplen, se entra en una segunda fase, la de diagnóstico, aquí se dejan por escrito las prácticas no sostenibles del uso del suelo, sirviendo de insumo para iniciar la tercera fase o fase de planificación. En esta, se parte del diagnóstico tanto de las prácticas no sostenibles como del contexto sociocultural.
 
             .col-md-6
@@ -52,7 +52,7 @@
 
           .row
             .col-md-6.mb-4.mb-md-0
-              h4.txt-slider-tema2 Plan de Intervención
+              //h4.txt-slider-tema2 Plan de Intervención
               p.txt-slider-tema2 Posteriormente, se diseña un plan de intervención para la gestión sostenible del suelo, en el cual se incluye un cronograma y el presupuesto necesario para su ejecución, trazando unas metas claras para el final de la intervención. Es importante incluir a la comunidad en este proceso.
 
             .col-md-6
@@ -62,7 +62,7 @@
 
           .row
             .col-md-6.mb-4.mb-md-0
-              h4.txt-slider-tema2 Implementación
+              //h4.txt-slider-tema2 Implementación
               p.txt-slider-tema2 Una vez ajustados los parámetros y contando con un documento final que recoja todas las apreciaciones, se pasa a una última fase, la de implementación y seguimiento. Esta fase consiste en la definición de un cronograma de ejecución y de roles dentro del plan de manejo, tanto para el personal técnico como para la comunidad.
 
             .col-md-6
