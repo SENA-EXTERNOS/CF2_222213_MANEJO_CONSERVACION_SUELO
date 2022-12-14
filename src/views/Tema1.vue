@@ -278,7 +278,7 @@
             .row(titulo="Mínimo movimiento")
               .col-md-6.mb-4.mb-md-0
               
-                h4.text-slider-nav-tit Mínimo movimiento
+                //h4.text-slider-nav-tit Mínimo movimiento
                 p.text-slider-nav-tit Al proteger la humedad y regular su temperatura, el mínimo movimiento aumenta la fertilidad del suelo y disminuye la descomposición de la materia orgánica, lo que representa, a su vez, pérdida de carbono.
 
               .col-md-6
@@ -290,7 +290,7 @@
             .row(titulo="No requiere maquinaria pesada")
 
               .col-md-6.mb-4.mb-md-0
-                h4.text-slider-nav-tit No requiere maquinaria pesada
+                //h4.text-slider-nav-tit No requiere maquinaria pesada
                 p.text-slider-nav-tit Además, representa un ahorro para los agricultores al no requerir maquinaria pesada, que hace uso de combustibles, o no necesitar un gran número de personal para el cultivo.
 
               .col-md-6
@@ -302,7 +302,7 @@
             .row(titulo="Labranza mínima")
 
               .col-md-6.mb-4.mb-md-0
-                h4.text-slider-nav-tit Labranza mínima
+                //h4.text-slider-nav-tit Labranza mínima
                 p.text-slider-nav-tit La labranza mínima se realiza de tres maneras diferentes:
                   
                   ol.lista-ol--cuadro
@@ -322,7 +322,7 @@
             .row(titulo="Menos compactación")
             
               .col-md-6.mb-4.mb-md-0
-                h4.text-slider-nav-tit Menos compactación
+                //h4.text-slider-nav-tit Menos compactación
                 p.text-slider-nav-tit Este tipo de siembra es apta para suelos de tipo arena grava, ya que son más suaves y reduce la probabilidad de compactación.
 
               .col-md-6
@@ -334,7 +334,7 @@
             .row(titulo="Suelo sin remover")
 
               .col-md-6.mb-4.mb-md-0
-                h4.text-slider-nav-tit Suelo sin remover
+                //h4.text-slider-nav-tit Suelo sin remover
                 p.text-slider-nav-tit
                   ol.lista-ol--cuadro
                       li 
@@ -353,7 +353,7 @@
 
             
               .col-md-6.mb-4.mb-md-0
-                h4.text-slider-nav-tit Suelos fríos y húmedos
+                //h4.text-slider-nav-tit Suelos fríos y húmedos
                 p.text-slider-nav-tit Este tipo de labranza funciona, especialmente, en suelos fríos y húmedos, los surcos ofrecen ambientes más cálidos y mejor drenados.
 
               .col-md-6
@@ -365,7 +365,7 @@
             .row(titulo="Promueve crecimiento raíces")
 
               .col-md-6.mb-4.mb-md-0
-                h4.text-slider-nav-tit Promueve crecimiento raíces
+                //h4.text-slider-nav-tit Promueve crecimiento raíces
                 p.text-slider-nav-tit 
                   ol.lista-ol--cuadro
                       li 

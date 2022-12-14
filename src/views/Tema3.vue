@@ -97,7 +97,7 @@
                     //figcaption Leyenda de la imagen
 
                 .col-md-6
-                  h4.txt-tabs-tema3 Evaluación del suelo
+                  //h4.txt-tabs-tema3 Evaluación del suelo
                   p.txt-tabs-tema3 La evaluación del suelo se puede realizar de dos maneras. La forma cualitativa no implica la realización de análisis especializados o de costo elevado, se basa en la obtención de información del suelo utilizando los sentidos (vista, olfato y tacto), considerándose como una herramienta útil al momento de evaluar los cambios que se presentan en el suelo y ayudando a tomar de decisiones sobre su uso sostenible.
               
 
@@ -109,7 +109,7 @@
                     img(src='@/assets/curso/temas/img-anal-lab-tema3.png', alt='Texto que describa la imagen').img2-tabs-tema3
                     //figcaption Leyenda de la imagen
                 .col-md-6
-                  h4.txt-tabs-tema3 Análisis de laboratorio
+                  //h4.txt-tabs-tema3 Análisis de laboratorio
                   p.txt-tabs-tema3 En la forma cuantitativa, se hacen análisis de laboratorio a muestras de suelo para conocer, de manera precisa, las características físicas como la disponibilidad de agua, el crecimiento de raíces y plántulas. Las características químicas también se evidencian, es decir, el contenido de nutrientes, la presencia de carbono orgánico, el pH, la capacidad de intercambio de energía, los cambios en la materia orgánica, el nitrógeno fijado y la disponibilidad de nitrógeno y fósforo.
 
             
@@ -120,7 +120,7 @@
                     img(src='@/assets/curso/temas/img-observ-cuanti-tema3.png', alt='Texto que describa la imagen').img3-tabs-tema3
                     //figcaption Leyenda de la imagen
                 .col-md-6
-                  h4.txt-tabs-tema3 Observaciones cuantitativas
+                  //h4.txt-tabs-tema3 Observaciones cuantitativas
                   .txt-tabs-tema3
                     p Las observaciones cuantitativas arrojan datos de características biológicas como la abundancia y la diversidad de macro y microorganismos, o la abundancia de raíces. Estas observaciones cuantitativas permiten tomar decisiones para la sostenibilidad del terreno, sobre la aplicación de fertilizantes.
                     p Esta técnica se usa, comúnmente, en suelos con problemas de fertilidad, con condiciones notorias de degradación a nivel físico, con capacidad de compactación e infiltración, o con sospechas de toxicidad por aluminio, salinidad o actividades que generen riesgos de contaminación. 
@@ -134,7 +134,7 @@
                     img(src='@/assets/curso/temas/img-eval-cuant-tema3.png', alt='Texto que describa la imagen').img4-tabs-tema3
                     //figcaption Leyenda de la imagen
                 .col-md-6
-                  h4.txt-tabs-tema3 Evaluación cualitativa
+                  //h4.txt-tabs-tema3 Evaluación cualitativa
                   p.txt-tabs-tema3 La evaluación del suelo se puede realizar de dos maneras, una cualitativa, que no implica la realización de análisis especializados o de costo elevado, sino que se basa en la obtención de información del suelo utilizando los sentidos (vista, olfato y tacto) considerándose como una herramienta útil al momento de evaluar los cambios que se presentan en el suelo.
 
           p El conocimiento de los suelos no se deriva, exclusivamente, de estudios de laboratorio, existen características a tener en cuenta al momento de hacer un diagnóstico inicial del predio, estos parámetros se encuentran ilustrados a continuación. En el siguiente recurso, encontrará información ampliada sobre los parámetros cualitativos para el análisis de suelos.
