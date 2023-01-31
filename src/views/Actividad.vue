@@ -15,11 +15,14 @@
       .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
         .tarjeta.h-100.d-flex.align-items-center.p-4
           figure
-            img(src="@/assets/template/completar.svg", alt="Texto que describa la imagen")
+            img(src="@/assets/template/ad.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-primario
           h2 Completar espacios
-        p.mb-4 Aprendiz, la siguiente actividad tiene como objetivo revisar y poner a prueba los conocimientos adquiridos en este componente de formación, se le invita a leer, con detenimiento, cada una de las oraciones, luego, digite en los espacios la palabra que le dé sentido a toda la oración. Esta actividad le permitirá identificar el concepto específico dentro de un enunciado general, promoviendo el análisis y la contextualización.
+        p.mb-4 Esta actividad le permitirá determinar el grado de apropiación de los contenidos del componente formativo.
+          br
+          br
+          |De acuerdo con cada definición planteada, llene el espacio vacío, digitando correctamente el término o palabras que completan el sentido de la frase o enunciado.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

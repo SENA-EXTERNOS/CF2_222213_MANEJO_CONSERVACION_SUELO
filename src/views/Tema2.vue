@@ -9,8 +9,7 @@
     
     .row.container.justify-content-around.align-items-center
 
-      p Un plan de manejo ambiental significa organizar y programar actividades, o prácticas preventivas o correctivas, para la intervención de suelos.
-
+      p Un plan de manejo ambiental, significa organizar y programar actividades o prácticas preventivas o correctivas, para la intervención de suelos.
       
       .tarjeta.bloque-slider1-tema2.p-4
         
@@ -75,16 +74,16 @@
     br
 
     .row.container.justify-content-around.align-items-center
-
-        p En el siguiente gráfico se puede apreciar la estructura de un plan de manejo ambiental.
+        h4 Estructura del plan de manejo ambiental
         p Conocer las medidas preventivas y correctivas a ejecutar para el manejo de suelos y adaptar actividades que beneficien la estructura y textura del suelo, se pueden llevar a cabo con la ayuda de un plan de manejo ambiental, como veremos a continuación.
 
         .row 
           .col-lg-12.bloque-plan-estruc-man-animal
               .titulo-sexto.color-primario.mb-3
-                  h5 Figura 6. 
-                    span
-                  <em>Estructura del plan de manejo ambiental</em>
+                  h5 Figura 3 
+                  br
+                  span
+                    <em>Estructura del plan de manejo ambiental</em>
               figure
                 img(data-aos="flip-right")(src='@/assets/curso/temas/img-estruct-plan-manej-animal-tema2.png', alt='Texto que describa la imagen')
 
@@ -101,7 +100,7 @@
               img(src='@/assets/curso/temas/img-fondo-tarj-final-tema2.png', alt='Texto que describa la imagen').img-fondo-tarj-final-tema2
 
           .col-lg-8
-            p.texto-tarj-final-tema2 Una vez se realizan las acciones planeadas en el suelo, se requiere monitorear o hacer seguimiento a las actividades que se planearon y como han sido los resultados según los objetivos trazados. Estos monitoreos se pueden hacer de carácter técnico en compañía de expertos o con la comunidad, según sea el caso de aplicación del estudio de suelos.
+            p.texto-tarj-final-tema2 Una vez se realizan en el suelo las acciones proyectadas, se requiere monitorear o hacer seguimiento de las actividades y cómo han sido los resultados, según los objetivos trazados. Estos monitoreos se pueden realizar con carácter técnico en compañía de expertos, o con la comunidad, según sea el caso de la aplicación del estudio de suelos.
 
           .col-lg-4
               figure

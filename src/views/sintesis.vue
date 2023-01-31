@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p A continuación, encontrará la información necesaria para la comprensión del uso sostenible del suelo, así como el compilado de las técnicas utilizadas para la protección de la erosión u otro tipo de afectaciones de origen antrópico. Así mismo, encontrará datos relevantes sobre los planes de manejo ambiental, su función, los actores que participan en él y las fases de su implementación. Todo esto, está diseñado para que afiance sus conocimientos y alcance los objetivos planteados en el componente.  
+    p El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo. 
 
 
     .row.justify-content-center

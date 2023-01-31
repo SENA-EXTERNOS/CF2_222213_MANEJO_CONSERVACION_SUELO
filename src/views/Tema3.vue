@@ -10,7 +10,7 @@
     
     .row.container.justify-content-around.align-items-center
       
-      p Como podrá observar a continuación, para realizar ejercicios de monitoreo técnico y participativo para el manejo de suelos, se debe partir de un análisis participativo.
+      p Para realizar ejercicios de monitoreo técnico y participativo para el manejo de suelos, se debe partir de un análisis participativo.
 
       .bg--img_03.bloque-acordeon-tema3
         .row.justify-content-center.mb-4
@@ -25,10 +25,11 @@
 
               .row(titulo="Trabajo Colaborativo")
                 .col-12
-                  p.texto-acordeon-tema3.mb-0 Se lleva a cabo realizando mesas de trabajo colaborativas, en el cual los actores de la zona participan realizando actividades como:
+                  p.texto-acordeon-tema3.mb-0 Se lleva a cabo realizando mesas de trabajo colaborativas, en donde los actores de la zona participan activamente.
 
               .row(titulo="Actividades")
                 .col-12
+                    p Entre las actividades de trabajo colaborativo, se tienen las siguientes:
                     ul.lista-ul--color.texto-acordeon-tema3
                       li 
                         i.fas.fa-angle-right
@@ -65,11 +66,8 @@
 
                         | Asignación de roles.
 
-      p A continuación, se enfatiza que el monitoreo y estudio de suelos, es una actividad fundamental para conocer la evolución, el desgaste y las necesidades de este recurso, algo importante para cualquier proceso productivo o estudio de conservación.
       
-    separador 
 
-    br
 
     .row.container.justify-content-around.align-items-center
         
@@ -77,11 +75,12 @@
             img(src='@/assets/curso/temas/img-lat-dere-tema3.png', alt='Texto que describa la imagen').img-lat-dere-tema3
         
 
-        #parametros-de-monitoreo
-        .titulo-segundo.color-acento-contenido
-          h2 3.1 Parámetros de monitoreo
+        h3 Parámetros de monitoreo
         
-        p Para la realización de intervenciones en suelos con prácticas no sostenibles, se hace necesario un proceso de comprensión del mismo, iniciando por la diagramación del predio para identificar los factores determinantes en la dinámica del suelo, con el fin de identificar los puntos clave de la parcela, para, posteriormente, evaluar el suelo en cada uno de estos puntos.
+        p El monitoreo y estudio de suelos, es una actividad fundamental para conocer la evolución, el desgaste y las necesidades de este recurso, algo importante para cualquier proceso productivo o estudio de conservación.
+          br
+          br
+          |Para la realización de intervenciones en suelos con prácticas no sostenibles, se hace necesario un proceso de comprensión del mismo, iniciando por la diagramación del predio para identificar los factores determinantes en la dinámica del suelo, con el fin de reconocer los puntos claves de la parcela para, posteriormente, evaluar el suelo en cada uno de estos puntos:
 
         .row 
           figure
@@ -135,9 +134,8 @@
                     //figcaption Leyenda de la imagen
                 .col-md-6
                   //h4.txt-tabs-tema3 Evaluación cualitativa
-                  p.txt-tabs-tema3 La evaluación del suelo se puede realizar de dos maneras, una cualitativa, que no implica la realización de análisis especializados o de costo elevado, sino que se basa en la obtención de información del suelo utilizando los sentidos (vista, olfato y tacto) considerándose como una herramienta útil al momento de evaluar los cambios que se presentan en el suelo.
+                  p.txt-tabs-tema3 La evaluación del suelo de manera cualitativa, no implica la realización de análisis especializados o de costo elevado, sino que se basa en la obtención de información del suelo, utilizando los sentidos (vista, olfato y tacto) considerándose como una herramienta útil al momento de evaluar los cambios que se presentan en el suelo.
 
-          p El conocimiento de los suelos no se deriva, exclusivamente, de estudios de laboratorio, existen características a tener en cuenta al momento de hacer un diagnóstico inicial del predio, estos parámetros se encuentran ilustrados a continuación. En el siguiente recurso, encontrará información ampliada sobre los parámetros cualitativos para el análisis de suelos.
     
     br
     br
@@ -146,6 +144,10 @@
     .row.container.justify-content-around.align-items-center
       
       h4 Parámetros cualitativos para el análisis de suelos
+      p El conocimiento de los suelos no se deriva, exclusivamente, de estudios de laboratorio, existen características a tener en cuenta al momento de hacer un diagnóstico inicial del predio.
+        br
+        br
+        |Conozca sobre estos parámetros cualitativos para el análisis de suelos, explorando el recurso que se propone a continuación:
       
       .col-lg-7.fondo-diversificacion-funcional.tarjeta
 
@@ -177,9 +179,7 @@
     .row.container.justify-content-around.align-items-center
 
     
-        #instrumentos-y-elementos-de-monitoreo
-        .titulo-segundo.color-acento-contenido
-          h2 3.2 Instrumentos y elementos de monitoreo
+        h4 Instrumentos y elementos de monitoreo
         
         p.txt-instrum-monit-tema3 Es importante conocer algunos elementos sobre los instrumentos y las herramientas de monitoreo para la evaluación y el estudio de suelos.
         
@@ -207,54 +207,40 @@
               .col-12
                 p Apoyado en  materiales (material audiovisual, papelería, herramientas), locaciones específicas (lugares de encuentro) y formatos detallados (cuadros de evaluación de terrenos, matrices de seguimiento de prácticas implementadas, diagramas de parcelas y tarjetas para la observación de suelo en el campo), se determina la vocación de uso del suelo, el objeto del estudio y los parámetros cualitativos para su intervención.
         
-        p En las actividades de seguimiento y manejo de suelos, se deben llevar registros, hacer anotaciones y tomar las fechas en las cuales las medidas fueron realizadas.  
+        p En las actividades de seguimiento y manejo de suelos, se deben llevar registros, hacer anotaciones y tomar las fechas en las cuales las medidas fueron realizadas. Amplíe sus conocimientos sobre los registros y su manejo, explorando el contenido que se propone a continuación:
 
 
-    separador
 
     br
 
-    .row.container.justify-content-around.align-items-center
 
-        #manejo-de-registros
-        .titulo-segundo.color-acento-contenido
-          h2 3.3 Manejo de registros
+    .row.justify-content-center.mb-5
+      .col-lg-9
+        .tarjeta.color-secundario.p-3.mb-5
+          .row.justify-content-around.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/template/icono-pdf.svg")
 
+            .col
+              .row.justify-content-between.align-items-center
+                .col-9.mb-3.mb-sm-0
+                  h3.mb-1 Manejo de registros
+                .col.mb-3.mb-sm-0
+                  a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/Anexo_5_CF2_Manejo de registros.pdf')" target="_blank")
+                    span Descargar 
+                    i.fas.fa-file-download
+      
 
-        .col-lg-7.fondo-diversificacion-funcional.tarjeta
-
-          .row.justify-content-between.align-items-center
-
-
-            .col.mb-3.mb-sm-0
-              //h3.mb-1 Título del recurso
-              .bloque-diversificacion-funcional
-                .anexo__icono
-                  img(src="@/assets/template/icono-pdf.svg")
-                .anexo__texto
-                  p.texto-diversificacion-funcional Manejo de registros
-                  p.texto-invisible Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              
-              
-            .col-sm-auto
-              .boton-descargar-diversificacion-funcional
-                a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/Anexo_5_CF2_Manejo de registros.pdf')" target="_blank")
-                  span Descargar
-                  i.fas.fa-file-download
-
-        .cajon.color-acento-contenido.bloque-cajon-color-tema3.p-4
-          .row.container
-          
-            .col-lg-7
-            
-              p Para concluir, en este componente formativo se abordaron temáticas relacionadas con las prácticas para el manejo, conservación y uso del suelo, encaminadas hacia la conservación y protección de la biodiversidad y de los ecosistemas de actividades físicas, biológicas y químicas que ocurren en el intercambio de animales y plantas.  Se enfatizó en reconocer el suelo como un componente vivo, a aplicar medidas de manejo y conservación conforme a parámetros técnicos o características del entorno y a realizar los monitoreos necesarios a este importante recurso. 
-              p Aprendiz, se le sugiere leer detenidamente la síntesis, realizar la actividad incluida y recurrir al material complementario. 
-            
-            .col-lg-5
-              figure
-                img(src="@/assets/curso/temas/img-manejo-registros-tema3.png", alt="alt").img-manejo-registros-tema3
+    .cajon.color-acento-contenido(style="background-color: #f7d7c2 ")
+      .row.align-items-center.justify-content-between
+      
+        .col-lg-9
         
-        p.texto-invisible Lorem, ipsum dolor sit amet consectetur adipisicing elit. Velit, voluptas maiores doloribus exercitationem deserunt, autem sint illo illum laborum commodi iste deleniti reprehenderit ab quas quasi quis aut neque magnam.
+          p.p-3 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros. 
+        
+        .col-lg-3
+          img(src="@/assets/curso/temas/img-manejo-registros-tema3.png", alt="alt" style='width: 400px')
+        
 
 </template>
 

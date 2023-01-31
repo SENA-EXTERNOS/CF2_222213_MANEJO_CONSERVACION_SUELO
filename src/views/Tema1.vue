@@ -7,165 +7,122 @@
         span 1
       h1 Conservación del suelo
 
-    .row.container.justify-content-around.align-items-center.fondo-introduccion
-
-      figure
-          img(src="@/assets/curso/temas/img-fondo-texto-intro.png").img-fondo-texto-tarj1-tema1
-      
-      .row
-        .col-lg-7
-          .bloque-texto-color-introduccion.p-4
-            p.txt-tarj1-tema1 El suelo, como recurso, puede definirse como la capa de tierra en la cual se encuentran los nutrientes necesarios para el desarrollo de los seres vivos, este, además de estar formado por una mezcla de minerales y materiales orgánicos, también está formado por agua, aire y microorganismos que cumplen funciones en su interior. La formación del suelo tarda miles de años, pero los efectos de prácticas inadecuadas, sobre todo por parte del hombre, son rápidamente evidenciados en él.
+    .tarjeta.fondo-tema1_1.px-5.py-2(style='background-color: #594e38').mb-5
+      .row.align-items-center.justify-content-center
+        .col-lg-8
+            p.text-white.mb-0 El suelo, como recurso, puede definirse como la capa de tierra en la cual se encuentran los nutrientes necesarios para el desarrollo de los seres vivos, este, además de estar formado por una mezcla de minerales y materiales orgánicos, también está formado por agua, aire y microorganismos que cumplen funciones en su interior. La formación del suelo tarda miles de años, pero los efectos de prácticas inadecuadas, sobre todo por parte del hombre, son rápidamente evidenciados en él.
 
         
-        .col-lg-5
+        .col-lg-4
           figure
-            img(data-aos="fade-left")(src="@/assets/curso/temas/img-targ1-tema1.png").img-targ1-tema1
+            img.m-auto(data-aos="fade-left")(src="@/assets/curso/temas/img-targ1-tema1.png" style='width: 280px')
       
-      p.txt-final-tarj1 La conservación del suelo como capa externa de la tierra y como factor determinante en ciclos de transformación de nutrientes para la satisfacción de necesidades humanas y la protección de la biodiversidad.
+    p.mb-5 La conservación del suelo como capa externa de la tierra y como factor determinante en ciclos de transformación de nutrientes para la satisfacción de necesidades humanas y la protección de la biodiversidad.
 
 
-    br
-    br
-    br
-    br
-
-    .row.container.justify-content-around.align-items-center
-
-      
-      .tarjeta.bloque-slider1-tema1.p-4
         
-        figure
-            img(src='@/assets/curso/temas/img-fondo-slider1-tema1.png', alt='Texto que describa la imagen').img-fondo-slider1-tema1
 
+    .tarjeta.fondo-tema1_2.p-5.mb-5
+      SlyderA(tipo="b")
+        .row.justify-content-center.align-items-center.my-lg-4
+          .col-md-6.mb-4.mb-md-0
+            .txt-slider-tema1
+              h4 Ciclos biogeoquímicos
+              p El suelo es un factor clave en los ciclos biogeoquímicos que transforman hidrógeno, nitrógeno, carbono y fósforo en la energía necesaria para la vida en el planeta, esto se logra a través de la distribución, transporte, almacenamiento y transformación de estos materiales en el suelo.
 
-        SlyderA(tipo="b")
-          .row.justify-content-center.align-items-center.my-lg-4
-            .col-md-6.mb-4.mb-md-0
-              .txt-slider-tema1
-                h4 Ciclos biogeoquímicos
-                p El suelo es un factor clave en los ciclos biogeoquímicos que transforman hidrógeno, nitrógeno, carbono y fósforo en la energía necesaria para la vida en el planeta, esto se logra a través de la distribución, transporte, almacenamiento y transformación de estos materiales en el suelo.
-
-            .col-md-6
-              figure
-                img(src='@/assets/curso/temas/ciclos-biogeoquimicos-tema1.png', alt='Texto que describa la imagen').imagenes-slider-tema1
-                //figcaption Leyenda de la imagen
-
-          .row.justify-content-center.align-items-center.my-lg-4
-
-            .col-md-6.mb-4.mb-md-0
-              .txt-slider-tema1
-                h4 Base de la Sociedad
-                p Es por esto que el suelo ha sido fundamental para las sociedades humanas. Por generaciones, ha proporcionado espacios para asentarse y vivir, garantizando soberanía alimentaria gracias a la posibilidad de cultivar sobre él todo tipo de alimentos, lo que, a su vez, garantiza solvencia económica con la venta de lo cultivado.
-
-            
-            .col-md-6
-              figure
-                img(src='@/assets/curso/temas/base-sociedad-tema1.png', alt='Texto que describa la imagen').imagenes-slider-tema1
-                //figcaption Leyenda de la imagen
-
-          
-          
-          .row.justify-content-center.align-items-center.my-lg-4
-
-            .col-md-6.mb-4.mb-md-0
-              .txt-slider-tema1
-                h4 Elemento natural
-                p En este sentido, el suelo debe ser tratado de manera integral, es decir, desde los elementos naturales que lo caracterizan hasta las dimensiones sociales, económicas, políticas y culturales. Así, se aborda el conjunto de sus otras funciones, por ejemplo, el suelo también regula el clima y las inundaciones, retiene el carbono, es fuente de productos farmacéuticos o de recursos genéticos y, además, suministra materiales de construcción.
-
-
-            .col-md-6
-              figure
-                img(src='@/assets/curso/temas/elemento-natural-tema1.png', alt='Texto que describa la imagen').imagenes-slider-tema1
-                //figcaption Leyenda de la imagen
-
-
-          .row.justify-content-center.align-items-center.my-lg-4
-
-            .col-md-6.mb-4.mb-md-0
-              .txt-slider-tema1
-                h4 Servicios ecosistémicos
-                p Teniendo en cuenta lo anterior, el estado óptimo de los suelos es un requisito para la satisfacción de necesidades (alimento, energía, protección y otros productos) en todo el planeta, tanto por los bienes y servicios ecosistémicos asociados a ellos, como por el mantenimiento de la biodiversidad. Así, las prácticas de conservación del suelo se pueden definir como un conjunto de técnicas que propenden por el mantenimiento de la biodiversidad y por el aumento de la productividad de los suelos.
-
-
-            .col-md-6
-              figure
-                img(src='@/assets/curso/temas/sistemas-ecosistemicos-tema1.png', alt='Texto que describa la imagen').imagenes-slider-tema1
-                //figcaption Leyenda de la imagen
-
-          
-          .row.justify-content-center.align-items-center.my-lg-4
-
-            .col-md-6.mb-4.mb-md-0
-              .txt-slider-tema1
-                h4 Funciones ecosistémicas 
-                p Con técnicas como la incorporación de materia orgánica o la descomposición de organismos con ciclos de vida largos, se reducen gases como el dióxido de carbono y se logra incorporar agua y oxígeno. Así mismo, se disminuye la erosión del suelo, se aumenta la humedad, se reducen agentes contaminantes y sedimentos por la purificación del agua, y se aumenta la flora en los cultivos en desarrollo. Todo esto contribuye, significativamente, a las comunidades que se benefician de las actividades agrícolas.
-
-            .col-md-6
-              figure
-                img(src='@/assets/curso/temas/funciones-ecosistemicas-tema1.png', alt='Texto que describa la imagen').imagenes-slider-tema1
-                //figcaption Leyenda de la imagen
-
-        p.texto-final-slider1-tema1 La pérdida del potencial productivo del suelo ha centrado la atención en él como un organismo vivo y no solo como soporte de las actividades humanas. Así, se ha reconocido que las malas prácticas de manejo pueden desencadenar consecuencias fatales como su degradación.
-    
-    br
-    br
-
-    separador
-    
-    
-    .row.container.justify-content-around.align-items-center
-        
-        #manejo-y-uso-sostenible
-        .titulo-segundo.color-acento-contenido
-          h2 1.1 Manejo y uso sostenible
-
-        p El suelo, como componente vivo, es un factor fundamental para el desarrollo de la sociedad y de los sistemas productivos. A continuación, puede ahondar sobre esta temática.
-
-    br
-    br
-    br
-
-    .row.container.justify-content-around.align-items-center
-    
-        .row 
-          figure
-              img(src='@/assets/curso/temas/img-fondo-slider2-tema1.png', alt='Texto que describa la imagen').img-fondo-slider2-tema1
-          
-          SlyderB.mb-5(:datos="datosSlyder")
-
-    br
-
-    separador
-
-    .row.container.justify-content-around.align-items-center
-        
-        #tecnicas-de-conservacion
-        .titulo-segundo.color-acento-contenido
-          h2 1.2 Técnicas de conservación        
-  
-        
-        .row.fondo-introduccion
-  
-          figure
-            img(src="@/assets/curso/temas/img-fondo-texto-intro.png").img-fondo-tec-cons
-    
-          .col-lg-5
+          .col-md-6
             figure
-              img(data-aos="fade-left")(src="@/assets/curso/temas/img-tecnicas-de-conservacion-tema1.png").img-tecnicas-de-conservacion-tema1
-            P.texto-invisible Lorem, ipsum dolor sit amet consectetur adipisicing elit. 
-            
-          .col-lg-7
-            .bloque-texto-color-tec-conserv.p-4
-              p.txt-tec-conserv-tema1 El manejo adecuado del suelo como capa externa de la tierra y como factor determinante en ciclos de transformación de nutrientes para la satisfacción de necesidades humanas y la protección de la biodiversidad, con las técnicas apropiadas es posible recuperarlo, como veremos a continuación.
-        br
-        br
+              img(src='@/assets/curso/temas/ciclos-biogeoquimicos-tema1.png', alt='Texto que describa la imagen').imagenes-slider-tema1
+              //figcaption Leyenda de la imagen
 
-        p.txt-final-tec-conserv-tema1 Las prácticas inadecuadas en el desarrollo de actividades agrícolas y productivas generan pérdida del potencial productivo haciendo necesaria la implementación de técnicas de conservación del suelo.
+        .row.justify-content-center.align-items-center.my-lg-4
 
-    br
-    br
-    br
+          .col-md-6.mb-4.mb-md-0
+            .txt-slider-tema1
+              h4 Base de la Sociedad
+              p Es por esto que el suelo ha sido fundamental para las sociedades humanas. Por generaciones, ha proporcionado espacios para asentarse y vivir, garantizando soberanía alimentaria gracias a la posibilidad de cultivar sobre él todo tipo de alimentos, lo que, a su vez, garantiza solvencia económica con la venta de lo cultivado.
+
+          
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/base-sociedad-tema1.png', alt='Texto que describa la imagen').imagenes-slider-tema1
+              //figcaption Leyenda de la imagen
+
+        
+        
+        .row.justify-content-center.align-items-center.my-lg-4
+
+          .col-md-6.mb-4.mb-md-0
+            .txt-slider-tema1
+              h4 Elemento natural
+              p En este sentido, el suelo debe ser tratado de manera integral, es decir, desde los elementos naturales que lo caracterizan hasta las dimensiones sociales, económicas, políticas y culturales. Así, se aborda el conjunto de sus otras funciones, por ejemplo, el suelo también regula el clima y las inundaciones, retiene el carbono, es fuente de productos farmacéuticos o de recursos genéticos y, además, suministra materiales de construcción. 
+
+
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/elemento-natural-tema1.png', alt='Texto que describa la imagen').imagenes-slider-tema1
+              //figcaption Leyenda de la imagen
+
+
+        .row.justify-content-center.align-items-center.my-lg-4
+
+          .col-md-6.mb-4.mb-md-0
+            .txt-slider-tema1
+              h4 Servicios ecosistémicos
+              p Teniendo en cuenta lo anterior, el estado óptimo de los suelos es un requisito para la satisfacción de necesidades (alimento, energía, protección y otros productos) en todo el planeta, tanto por los bienes y servicios ecosistémicos asociados a ellos, como por el mantenimiento de la biodiversidad. Así, las prácticas de conservación del suelo se pueden definir como un conjunto de técnicas que propenden por el mantenimiento de la biodiversidad y por el aumento de la productividad de los suelos.
+
+
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/sistemas-ecosistemicos-tema1.png', alt='Texto que describa la imagen').imagenes-slider-tema1
+              //figcaption Leyenda de la imagen
+
+        
+        .row.justify-content-center.align-items-center.my-lg-4
+
+          .col-md-6.mb-4.mb-md-0
+            .txt-slider-tema1
+              h4 Funciones ecosistémicas 
+              p Con técnicas como la incorporación de materia orgánica o la descomposición de organismos con ciclos de vida largos, se reducen gases como el dióxido de carbono y se logra incorporar agua y oxígeno. Así mismo, se disminuye la erosión del suelo, se aumenta la humedad, se reducen agentes contaminantes y sedimentos por la purificación del agua, y se aumenta la flora en los cultivos en desarrollo. Todo esto contribuye, significativamente, a las comunidades que se benefician de las actividades agrícolas.
+
+          .col-md-6
+            figure
+              img(src='@/assets/curso/temas/funciones-ecosistemicas-tema1.png', alt='Texto que describa la imagen').imagenes-slider-tema1
+              //figcaption Leyenda de la imagen
+
+    p.mb-5 La pérdida del potencial productivo del suelo, ha centrado la atención en él como un organismo vivo y no solo como soporte de las actividades humanas. Así, se ha reconocido que las malas prácticas de manejo, pueden desencadenar en consecuencias fatales como su degradación.
+    h3 Manejo y uso sostenible
+
+    p.mb-5 El suelo, como componente vivo, es un factor fundamental para el desarrollo de la sociedad y de los sistemas productivos. A continuación, se profundiza sobre esta temática.  
+
+
+    .row.container.justify-content-around.align-items-center.mb-5
+    
+      .row 
+        figure
+            img(src='@/assets/curso/temas/img-fondo-slider2-tema1.png', alt='Texto que describa la imagen').img-fondo-slider2-tema1
+        
+        SlyderB.mb-5(:datos="datosSlyder")
+
+
+
+    h3 Técnicas de conservación        
+  
+        
+    .fondo-tema1_1.tarjeta.p-5
+
+      .row.align-items-center.justify-content-center
+        .col-lg-3
+          figure
+            img(data-aos="fade-left")(src="@/assets/curso/temas/img-tecnicas-de-conservacion-tema1.png")
+        .col-lg-8
+          
+          p.text-white.mb-0 El manejo adecuado del suelo como capa externa de la tierra y como factor determinante en ciclos de transformación de nutrientes para la satisfacción de necesidades humanas y la protección de la biodiversidad, con las técnicas apropiadas es posible recuperarlo, como veremos a continuación.
+
+    p Las prácticas inadecuadas en el desarrollo de actividades agrícolas y productivas generan pérdida del potencial productivo haciendo necesaria la implementación de técnicas de conservación del suelo.
+
+
+
 
     .row.container.justify-content-around.align-items-center
 
@@ -220,20 +177,15 @@
     br
     br
 
-    .row.container.justify-content-around.align-items-center
-
-      .row
-    
-        figure
-          img(src="@/assets/curso/temas/img-fondo-conservacion-tema1.png").img-fondo-conservacion-tema1
-
-        .col-lg-5
+    .tarjeta.fondo-tema1_3.p-5
+      .row.align-items-center
+        .col-lg-4
           figure
-            img(data-aos="fade-left")(src="@/assets/curso/temas/img-conservacion-tema1.png").img-conservacion-tema1
+            img(data-aos="fade-left")(src="@/assets/curso/temas/img-conservacion-tema1.png")
 
-        .col-lg-7
-          .txt-conservacion-tema1.p-4
-            p.txt-introduccion La conservación implica buscar que los suelos puedan ser manejados de forma sostenible con los menores impactos posibles, para lograrlo, se deben ejercer unas buenas prácticas generales para su uso. Estas prácticas se dividen en el uso del suelo según su vocación, la labranza mínima, la utilización de abonos verdes u orgánicos o biofertilizantes, el empleo de coberturas permanentes, el uso de barreras y cercas vivas, el pastoreo controlado o rotativo, la rotación de cultivos, los policultivos o cultivos asociados, la diversificación funcional, las obras biomecánicas para el manejo del suelo y flujos de agua, y el control biológico y biopreparados (FAO, 2018).
+        .col-lg-8
+          
+          p.text-white La conservación implica buscar que los suelos puedan ser manejados de forma sostenible con los menores impactos posibles, para lograrlo, se deben ejercer unas buenas prácticas generales para su uso. Estas prácticas se dividen en el uso del suelo según su vocación, la labranza mínima, la utilización de abonos verdes u orgánicos o biofertilizantes, el empleo de coberturas permanentes, el uso de barreras y cercas vivas, el pastoreo controlado o rotativo, la rotación de cultivos, los policultivos o cultivos asociados, la diversificación funcional, las obras biomecánicas para el manejo del suelo y flujos de agua, y el control biológico y biopreparados (FAO, 2018).
     br
     br
     br
@@ -251,9 +203,10 @@
 
             .col-lg-6
               .titulo-sexto.color-primario.texto-figura1.mb-3
-                  h5 Figura 1. 
-                    span
-                  <em>Vocación del suelo</em>
+                  h5 Figura 1 
+                  br
+                  span
+                    <em>Vocación del suelo</em>
               figure
                 img(src="@/assets/curso/temas/img-vocacion-suelo-tema1.png").img-vocacion-suelo-tema1
 
@@ -387,7 +340,7 @@
 
       h4 Medidas de manejo de suelos
 
-      p A continuación, se abordará como del suelo depende el desarrollo de la sociedad y las formas de establecer los sistemas productivos, ya sean urbanos o rurales.
+      p Entre los tipos de manejo del suelo, hay algunas medidas que permiten mejorar el rendimiento de los cultivos y la estructura del suelo, del cual depende, en gran medida, el desarrollo de la sociedad y las formas de establecer sistemas productivos, ya sean urbanos o rurales. conozcámoslos a continuación:
 
 
       ImagenInfografica.color-primario
@@ -396,14 +349,14 @@
             img(src='@/assets/curso/temas/img-punto-caliente-tema1.png', alt='Texto que describa la imagen').img-punto-caliente-tema1
             //figcaption Leyenda de la imagen
 
-        .tarjeta.tarj-punto-caliente-tema1.p-3(x="80%" y="75%" numero="1")
+        .tarjeta.tarj-punto-caliente-tema1.p-3(x="45%" y="5%" numero="1")
           .h5.mb-2 Abonos verdes y cobertura permanente del suelo: 
           p Consisten en incorporar plantas, o materia vegetal, para mejorar la fertilidad y calidad del suelo dada su capacidad de reciclar grandes cantidades de nutrientes. El suelo cultivable también se debe cubrir para evitar la influencia del sol, de la lluvia y, con ello, de la erosión.
-           br
-           | Esta técnica mejora la retención de humedad, disminuye las variaciones extremas de temperatura, reduce la presencia de plagas, disminuye la necesidad de usar plaguicidas aumentando la actividad biológica mejorando las relaciones entre los organismos.
+            br
+            | Esta técnica mejora la retención de humedad, disminuye las variaciones extremas de temperatura, reduce la presencia de plagas, disminuye la necesidad de usar plaguicidas aumentando la actividad biológica mejorando las relaciones entre los organismos.
 
 
-        .tarjeta.tarj-punto-caliente-tema1.p-3(x="20%" y="35%" numero="2")
+        .tarjeta.tarj-punto-caliente-tema1.p-3(x="80%" y="35%" numero="2")
           .h5.mb-2 Barreras y cercas vivas:
           p Son cultivos que se ubican en laderas para mejorar la resistencia del sistema agrícola, sobre todo, ante eventos climáticos, evitando la erosión del suelo. 
           p Esta técnica se usa, igualmente, para establecer límites, es decir, con la siembra de árboles se controla el tránsito humano, animal e, incluso vectores. Además, los árboles sirven como refugio y alimento de poblaciones reguladoras para el control de plagas.
@@ -411,7 +364,7 @@
 
 
 
-        .tarjeta.tarj-punto-caliente-tema1.p-3(x="80%" y="35%" numero="3")
+        .tarjeta.tarj-punto-caliente-tema1.p-3(x="70%" y="75%" numero="3")
           .h5.mb-2 Pastoreo controlado o rotativo:
           p Es el intercambio de ganado dentro del terreno para evitar compactación del suelo, ubicando a los animales en sitios fijos para cumplir con la función de corte de pasto en zonas delimitadas, previniendo daños a los cultivos. 
           p Esto provee de alimentos al ganado (forrajes) y permite un mayor crecimiento de animales, sin desperdiciar energía en el pastoreo. Así mismo, se interrumpen los ciclos de vida de plagas o malezas que pueden afectar a las especies vegetales del cultivo, protegiendo las plantaciones.
@@ -430,7 +383,7 @@
             br
             | Grupo IV - Diversos: alfalfa, frijol, haba, soya, guaje, garbanzo y tréboles.
 
-        .tarjeta.tarj-punto-caliente-tema1.p-3(x="45%" y="5%" numero="5")
+        .tarjeta.tarj-punto-caliente-tema1.p-3(x="20%" y="35%" numero="5")
           .h5.mb-2 Policultivos o cultivos asociados:
           p Se trata de la plantación simultánea de diversas especies vegetales, complementarias entre sí, en una misma parcela mejorando la captación de nutrientes, promoviendo el reciclaje y regulando las malezas sin emplear herbicidas.
           p Así mismo, se hace un mejor uso del suelo, del agua y del espacio; fomentando la presencia de polinizadores garantizando un mayor rendimiento con respecto a un monocultivo.
@@ -442,7 +395,7 @@
 
     .row.container.justify-content-around.align-items-center
       
-      p Otras medidas funcionales, a tener en cuenta, para el adecuado manejo del suelo es la diversificación funcional y las obras biomecánicas. A continuación, puede ampliar la información en el siguiente botón.
+      p Otras medidas funcionales, para tener en cuenta, en el adecuado manejo del suelo, son: la diversificación funcional y las obras biomecánicas. Conózcalas con más detalle, explorando el documento que se propone a continuación:
       
       br
       br 
@@ -471,7 +424,7 @@
                   span Descargar
                   i.fas.fa-file-download
             
-      p.texto-inf-diversificacion-funcional Entre las actividades para el manejo del suelo se observó que la diversificación funcional mejora la diversidad. Igualmente, existen obras biomecánicas para el manejo del suelo que aportan beneficios a su estructura y textura, tal como se aborda a continuación.
+      p.texto-inf-diversificacion-funcional Entre las actividades para el manejo del suelo, la diversificación funcional mejora la diversidad. De la misma manera y con alta efectividad, existen obras biomecánicas que aportan beneficios a su estructura y textura, para el manejo del suelo, como veremos a continuación:
     
     br
     br
@@ -489,9 +442,6 @@
         .row
           .col-lg-12
               .titulo-sexto.color-primario.tit-obras-biomecanicas-tema1.mb-3
-                h5 Figura 2. 
-                  span
-                <em>Obras biomecánicas para el manejo del suelo</em>
 
               figure
                 img(src='@/assets/curso/temas/img-obras-biomecanicas-tema1.png', alt='Texto que describa la imagen').img-obras-biomecanicas-tema1
@@ -503,7 +453,7 @@
               .tarjeta-slide__contenedor
                 .tarjeta-slide__contenido.p-4.p-xl-5
                   //h1 John Doe
-                  p Comprende aquellas obras que combinan algún material vivo con material inerte para construir estructuras económicas y de fácil construcción con las cuales se pueda controlar la erosión, los deslizamientos y lograr preservar los suelos. 
+                  p Algunas obras biomecánicas combinan algún material vivo con material inerte, para formar estructuras económicas y de fácil construcción, con las cuales se puedan controlar la erosión y los deslizamientos, y lograr preservar los suelos.
                 .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tarj-avatar1-tema1.png')})`}")
 
           .col-sm-6.col-xl-3.mb-4.mb-xl-0
@@ -512,7 +462,7 @@
                 .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tarj-avatar2-tema1.png')})`}")
                 .tarjeta-slide__contenido.p-4.p-xl-5
                   //h1 John Doe
-                  p Permiten la restauración de áreas degradadas, retienen materia orgánica, enriquecen el suelo, haciéndolo más fértil, y regeneran, de manera natural, las especies vegetales presentes en el área.
+                  p Algunas obras biomecánicas permiten la restauración de áreas degradadas, retienen materia orgánica, enriquecen el suelo, haciéndolo más fértil, y regeneran de manera natural, las especies vegetales presentes en el área.
 
           .col-sm-6.col-xl-3.mb-4.mb-sm-0
             .tarjeta.tarjeta-slide.arriba.fondo-tarj-avatar3(@mouseover="indicadorTarjetaSlide = false")
@@ -520,7 +470,7 @@
                 .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tarj-avatar3-tema1.png')})`}")
                 .tarjeta-slide__contenido.p-4.p-xl-5
                   //h1 John Doe
-                  p Se pueden seleccionar de acuerdo al grado de erosión de los suelos, al área que está disponible para llevarlas a cabo y a las necesidades del beneficiario de los predios.
+                  p Las obras biomecánicas se pueden seleccionar, de acuerdo con el grado de erosión de los suelos, del área que se encuentra disponible para realizar el proceso, y a las necesidades del beneficiario de los predios.
 
           .col-sm-6.col-xl-3
             .tarjeta.tarjeta-slide.arriba.fondo-tarj-avatar4(@mouseover="indicadorTarjetaSlide = false")
@@ -542,7 +492,10 @@
 
         .col-lg-7
 
-            p.texto-tarje-manejo-agroecologico Dentro del manejo agroecológico de los cultivos se tiene algunos preparados y compuestos, como abonos orgánicos y biofertilizantes, que aportan materia orgánica al suelo, estos benefician las interacciones de los microorganismos presentes en el suelo. En el siguiente recurso, encontrará  más información sobre abonos orgánicos y biofertilizantes, en el siguiente link encuentras más información, anímate a explorar.
+            p.texto-tarje-manejo-agroecologico Dentro del manejo agroecológico de los cultivos se tiene algunos preparados y compuestos, como #[b abonos orgánicos y biofertilizantes], que aportan materia orgánica al suelo, estos benefician las interacciones de los microorganismos presentes en el suelo.
+              br
+              br
+              |Conozca más sobre ellos, explorando el siguiente enlace:
 
         .col-lg-5
 
@@ -555,7 +508,6 @@
 
     .row.container.justify-content-around.align-items-center
 
-      h4 Abonos orgánicos y biofertilizantes
 
       
       .col-lg-6.fondo-diversificacion-funcional.tarjeta
@@ -583,11 +535,9 @@
     
     br
     br
-    br
 
     .row.container.justify-content-around.align-items-center
 
-        h4 Abonos orgánicos líquidos
 
         .col-lg-6.fondo-diversificacion-funcional.tarjeta
 
@@ -610,7 +560,6 @@
                     span Descargar
                     i.fas.fa-file-download
 
-        p.texto-inf-diversificacion-funcional A continuación se amplía la información sobre el control biológico y los biopreparados son técnicas que mantienen el aspecto natural del suelo evitando la contaminación y controlando la propagación de enfermedades y plagas.
 
     br
     br
@@ -620,7 +569,7 @@
 
       
       h4 Biopreparados
-      p A partir de los principios activos que los componen, los biopreparados, o preparados biológicos, funcionan aportando materia orgánica y agentes que atacan plagas y enfermedades en los cultivos.
+      p Los #[b biopreparados] son técnicas que mantienen el aspecto natural del suelo, evitando la contaminación y controlando la propagación de enfermedades y plagas. A partir de los principios activos que los componen, los biopreparados, o preparados biológicos, funcionan aportando materia orgánica y agentes que atacan plagas y enfermedades en los cultivos.
 
       
       .bg--img_03.bloque-acordeon-tema1
@@ -632,15 +581,15 @@
             AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta color-fondo-acordeon")
               .row(titulo="Control biológico")
                 .col-12
-                  p.mb-0 También se encuentran otros métodos como de #[strong  control biológico] como los bioinsecticidas, sustancias naturales capaces de controlar o eliminar las plagas en un cultivo, generalmente son extraídos de alguna planta, de insectos, de algún mineral o de microorganismos.
+                  p.mb-0 También se encuentran otros métodos de #[b control biológico] como los bioinsecticidas, sustancias naturales capaces de controlar o eliminar las plagas en un cultivo, ayudan a mejorar la calidad y el rendimiento de las cosechas y, por lo general, son extraídos de plantas, de insectos, de minerales o de microorganismos.
 
               .row(titulo="Bioinsecticidas")
                 .col-12
-                  p.mb-0 Los #[strong  Bioisecticidas] más utilizados en la agricultura tradicional son aquellos que provienen de infusiones, macerados y algunos tipos de cocciones, presentan beneficios como la disminución del uso de insecticidas, no generan resistencia en las plagas, no afectan a la salud humana, son económicos y se degradan con gran facilidad.
+                  p.mb-0 Los #[b bioinsecticidas] más utilizados en la agricultura tradicional, son aquellos que provienen de infusiones, macerados y algunos tipos de cocciones; aportan bastantes beneficios como la disminución del uso de insecticidas, no generan resistencia en las plagas, no afectan la salud humana, son económicos y se degradan con gran facilidad.
 
               .row(titulo="Sustancias naturales controlan plagas")
                 .col-12
-                  p.mb-0 Métodos de control biológico, como bioinsecticidas o sustancias naturales capaces de controlar o eliminar las plagas, son extraídos, generalmente, de plantas, minerales, insectos y microorganismos.
+                  p.mb-0 Controlar las plagas de manera natural, se refiere a una forma de controlarlas en la que no se utilizan sustancias químicas, se producen diferentes tipos de recetas para las cuales se utilizan insectos, aves, animales, plantas, bioinsecticidas, técnicas manuales o sustancias naturales, capaces de controlarlas o eliminarlas.
 
               .row(titulo="Infusiones, macerados y cocciones")
                 .col-12
@@ -654,7 +603,6 @@
                 .col-12
                   p.mb-0 Es fundamental evitar la propagación de enfermedades por hongos en sistemas agrícolas, así se protegen las plántulas, en sus primeros estados de desarrollo, de enfermedades, permitiendo un correcto desarrollo de sus raíces. 
       
-      p Los biopreparados actúan de acuerdo al modo de acción por la forma como actúan en las plantas cuando se aplican y se clasifican de acuerdo al modo de preparación, como veremos a continuación en la siguiente ilustración.
     
     br
     br
@@ -664,21 +612,17 @@
 
       h4 Tipos de biopreparados
 
+      p Los biopreparados actúan de acuerdo al modo de acción por la forma como actúan en las plantas cuando se aplican y se clasifican de acuerdo al modo de preparación, como veremos a continuación en la siguiente ilustración.
       br
       br
       br
 
       .row 
         .col-lg-12.bloque-img-biopreparados
-          .titulo-sexto.color-primario.mb-3
-            h5 Figura 3. 
-                span
-            <em>Biopreparados</em>
-          
           figure(data-aos="zoom-in")
               img(src="@/assets/curso/temas/img-biopreparados.png", alt="alt")
       
-      p.txt-biopreparados Algunas características importantes a saber sobre el control biológico y los Biopreparados relevantes a la hora de aplicarlas, cuáles son sus ventajas y desventajas, lo veremos a continuación.            
+      p.txt-biopreparados Algunas características, ventajas y desventajas del control biológico y los biopreparados, en lo relacionado con su aplicación, son:          
 
     br
     br
@@ -706,20 +650,20 @@
         .row 
           .col-lg-12.bloque-img-biopreparados
             .titulo-sexto.color-primario.mb-3
-              h5 Figura 4. 
-                  span
-              <em>Control biológico</em>
+              h5 Figura 2
+              br 
+              span
+                <em>Control biológico</em>
             
             figure(data-aos="zoom-in")
                 img(src="@/assets/curso/temas/img-control-biologico-tema1.png", alt="alt")
         
-        p.txt-biopreparados Tal como se muestra a continuación, es necesario conocer características importantes sobre  la Alelopatía y sus relaciones fitoquímicas entre las plantas.
         
     br
     br
     br
 
-    .row.container.justify-content-around.align-items-center
+    .row.container.justify-content-around.align-items-center.mb-5
 
       h4 Alelopatía
       
@@ -763,24 +707,20 @@
           figure
             img(src="@/assets/curso/temas/img-aleoquimicos-tema1.png", alt="alt")  
 
-      p En el siguiente video se presenta otra técnica empleada para la conservación y manejo del suelo, las estructuras. Estas son utilizadas ante posibles pérdidas de suelo o del perfil de la montaña y, también se usan cuando pueda estar en riesgo el talud de las áreas pendientes.
              
              
-    separador
     
-    br
 
-    .row.container.justify-content-around.align-items-center
+    h3 Diseños y estructuras
 
-        #disenos-y-estructuras
-        .titulo-segundo.color-acento-contenido
-          h2 1.3 Diseños y estructuras
+    p.mb-5 En el siguiente video se presenta la técnica de las estructuras, empleada para la conservación y manejo del suelo. Estas son utilizadas ante posibles pérdidas de suelo o del perfil de la montaña y también se usan cuando pueda estar en riesgo el talud de las áreas pendientes.
 
-        figure
-          .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        
-        p.txt-final-tema1 Una vez conocidas las medidas de manejo ambiental, a continuación, se abordará   por qué es importante organizar y proyectar actividades con la ayuda de un plan de manejo.
+
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      
+    p Una vez conocidas las medidas de manejo ambiental, a continuación, se abordará   por qué es importante organizar y proyectar actividades con la ayuda de un plan de manejo.
 
 </template>
 
@@ -794,28 +734,28 @@ export default {
       {
         titulo: 'Recurso suelo',
         texto:
-          'Manejar el suelo de manera sostenible es una prioridad, especialmente, para la seguridad alimentaria y el futuro sostenible de la humanidad. La sostenibilidad es definida, a grandes rasgos, como la capacidad de mantener un mismo estado durante mucho tiempo, por lo cual,  aplicando esta noción al recurso suelo, se podría definir como la capacidad conferida al suelo para conservar sus características biológicas, físicas y químicas, sin disminuir sus potenciales productivos o su calidad en un largo periodo de tiempo.',
+          'Manejar el suelo de manera sustentable es una prioridad, en especial, para la seguridad alimentaria y el futuro sostenible de la humanidad. La sostenibilidad, a grandes rasgos, se refiere a la capacidad de mantener un mismo estado, durante bastante cantidad de tiempo, aplicando esta noción al suelo como recurso; o sea que la permanencia es la constante conferida al suelo, para conservar sus características biológicas, físicas y químicas, sin disminuir sus potenciales productivos, o su calidad, durante un largo periodo de tiempo.',
         imagen: require('@/assets/curso/temas/img1-slider2-tema1.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
         titulo: 'Manejo sostenible del suelo',
         texto:
-          'Por ello, el manejo sostenible del suelo implica conocer de cerca sus características, permitiendo mantenerlas en el tiempo o, incluso, mejorarlas. El uso de coberturas vegetales, o residuos de cosecha, protege al suelo de los rayos del sol y lo mantiene a una temperatura adecuada para que sus microorganismos puedan cumplir todas las funciones necesarias.',
+          'Por lo tanto, el manejo sostenible del suelo implica conocer de cerca sus características, permitiendo mantenerlas en el tiempo o, incluso, mejorarlas. El uso de coberturas vegetales o residuos de cosecha, protege al suelo de los rayos del Sol y lo mantiene a una temperatura adecuada, para que sus microorganismos puedan cumplir todas las funciones imprescindibles.',
         imagen: require('@/assets/curso/temas/img2-slider2-tema1.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
         titulo: 'Aporte de materia orgánica',
         texto:
-          'También, se debe tener en cuenta el aporte de materia orgánica, esta es la encargada de mejorar la estabilidad del suelo en el tiempo, ya que le brinda una mayor adhesión. El aporte de materia orgánica, bien sea por residuos de cosecha, por estiércol de animales o por residuos de cocina, es vital para el suelo, sin este aporte se vería afectada la actividad biológica y, con ella, sus características físicas, químicas y biológicas.',
+          'También, se debe tener en cuenta el aporte de materia orgánica. Esta, es la encargada de mejorar la estabilidad del suelo en el tiempo, porque le brinda una mayor adhesión. El aporte de materia orgánica, bien sea por residuos de cosecha, por estiércol de animales o por residuos de cocina, es vital para el suelo, porque sin este aporte se vería afectada la actividad biológica y, como consecuencia, sus características físicas, químicas y biológicas.',
         imagen: require('@/assets/curso/temas/img3-slider2-tema1.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
         titulo: 'Vocación de los suelos',
         texto:
-          'Igualmente, es necesario conocer la vocación de los suelos, esto permite la toma de decisiones acertadas respecto a los procedimientos que se llevarán a cabo en él, teniendo en cuenta, por supuesto, las actividades productivas llevadas a cabo allí que repercuten en aspectos como el calentamiento global; problemática que ocasiona mayor deterioro en los suelos.',
+          'Igualmente, es necesario conocer la vocación de los suelos, porque esto permite la toma de decisiones acertadas con respecto a los procedimientos que se llevarán a cabo, teniendo en cuenta, por supuesto, las actividades productivas ejecutadas, las cuales repercuten en varios aspectos como, por ejemplo, el calentamiento global, problemática que ocasiona el mayor deterioro de los suelos. ',
         imagen: require('@/assets/curso/temas/img4-slider2-tema1.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
@@ -832,4 +772,20 @@ export default {
 }
 </script>
 
-<style lang="sass"></style>
+<style lang="sass">
+.fondo-tema1_1
+  background-image: url(../assets/curso/temas/img-fondo-texto-intro.png)
+  background-position: top
+  background-repeat: no-repeat
+  background-size: 100%
+.fondo-tema1_2
+  background-image: url(../assets/curso/temas/img-fondo-slider1-tema1.png)
+  background-position: top
+  background-repeat: no-repeat
+  background-size: 100%
+.fondo-tema1_3
+  background-image: url(../assets/curso/temas/img-fondo-conservacion-tema1.png)
+  background-position: top
+  background-repeat: no-repeat
+  background-size: cover
+</style>

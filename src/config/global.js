@@ -35,26 +35,6 @@ export default {
         numero: '1',
         titulo: 'Conservación del suelo',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Manejo y uso sostenible',
-            hash: 'manejo-y-uso-sostenible',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Técnicas de conservación',
-            hash: 'tecnicas-de-conservacion',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Diseños y estructuras',
-            hash: 'disenos-y-estructuras',
-          },
-        ],
       },
 
       {
@@ -70,26 +50,6 @@ export default {
         numero: '3',
         titulo: 'Monitoreo técnico y participativo',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Parámetros de monitoreo',
-            hash: 'parametros-de-monitoreo',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Instrumentos y elementos de monitoreo',
-            hash: 'instrumentos-y-elementos-de-monitoreo',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.3',
-            titulo: 'Manejo de registros',
-            hash: 'manejo-de-registros',
-          },
-        ],
       },
     ],
     subMenu: [
@@ -134,30 +94,30 @@ export default {
   },
   complementario: [
     {
-      tema: 'Impacto de la labranza mecanizada',
+      tema: 'Conservación del suelo ',
       referencia:
-        'Gómez, N., Solorzano, M. & Villagra, K. (2017). La labranza mecanizada y su impacto en la conservación del suelo. <em>Tecnología en Marcha</em>, 31(1), p.170-180',
+        'Gómez, N., Solorzano, M. & Villagra, K. (2017). La labranza mecanizada y su impacto en la conservación del suelo. <em>Tecnología en Marcha,</em> 31(1), p.170-180.',
       tipo: 'Revisión literaria.',
       link: 'https://www.doi.org/10.18845/tm.v31i1.3506',
     },
     {
-      tema: 'Manejo y conservación de suelos',
+      tema: 'Conservación del suelo',
       referencia:
         'TvAgro. (2021). <em>Manejo y conservación de suelos en agroecología</em> [Video]. YouTube',
       tipo: 'Video ',
       link: 'https://www.youtube.com/watch?v=iQ19VpVJ5Pg',
     },
     {
-      tema: 'Cómo se hace el compostaje',
+      tema: 'Plan de manejo ambiental ',
       referencia:
         'Organización de las Naciones Unidas para la Alimentación y la Agricultura [FAO]. (2018). <em>Guía de buenas prácticas para la gestión y uso sostenible de los suelos en áreas rurales.</em>',
       tipo: 'Guía ',
       link: 'https://www.fao.org/3/i8864es/I8864ES.pdf',
     },
     {
-      tema: 'Tarjeta para observación de suelos',
+      tema: 'Plan de manejo ambiental ',
       referencia:
-        'Organización de las Naciones Unidas para la Alimentación y la Agricultura [FAO]. (2018). <em>Guía de buenas prácticas para la gestión y uso sostenible de los suelos en áreas rurales.</em>',
+        'Acevedo, A. y Jiménez, N. (Comp.) (2019). <em>Agroecología, experiencias comunitarias para la agricultura familiar en Colombia.</em> Universidad del Rosario. ',
       tipo: 'Guía',
       link: 'https://www.fao.org/3/i8864es/I8864ES.pdf',
     },
@@ -223,7 +183,7 @@ export default {
     },
     {
       referencia:
-        'Cassma Consultores. (2018, abril 3). <em>Plan de Manejo Ambiental (PMA).</em> Cassma Consultores.',
+        'Cassma Consultores. (2018). <em> Plan de Manejo Ambiental (PMA). Cassma Consultores.</em> Cassma Consultores.',
       link: 'http://www.cassmaconsultores.com/plan-de-manejo-ambiental-pma/',
     },
     {
