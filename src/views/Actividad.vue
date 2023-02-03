@@ -18,17 +18,18 @@
             img(src="@/assets/template/ad.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-primario
-          h2 Completar espacios
+          h2 Manejo y conservación del suelo
         p.mb-4 Esta actividad le permitirá determinar el grado de apropiación de los contenidos del componente formativo.
           br
           br
-          |De acuerdo con cada definición planteada, llene el espacio vacío, digitando correctamente el término o palabras que completan el sentido de la frase o enunciado.
+          |De acuerdo con cada definición planteada, llene el espacio vacío, digitando correctamente el término o palabras que completan el sentido de la frase o enunciado. 
+
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
               p.fw-bold.mb-0 Completar espacios
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/Actividad_didáctica-CF2 T_222213_Manejo y conservación del suelo - Storyline output/story.html')" target="_blank")
+              a.boton.boton--b(:href="obtenerLink('/actividades/story.html')" target="_blank")
                 span Realizar
                 i.fas.fa-puzzle-piece
                 

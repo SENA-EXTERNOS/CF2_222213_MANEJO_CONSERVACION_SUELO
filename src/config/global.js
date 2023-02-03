@@ -97,13 +97,13 @@ export default {
       tema: 'Conservación del suelo ',
       referencia:
         'Gómez, N., Solorzano, M. & Villagra, K. (2017). La labranza mecanizada y su impacto en la conservación del suelo. <em>Tecnología en Marcha,</em> 31(1), p.170-180.',
-      tipo: 'Revisión literaria.',
+      tipo: 'Revisión literaria ',
       link: 'https://www.doi.org/10.18845/tm.v31i1.3506',
     },
     {
       tema: 'Conservación del suelo',
       referencia:
-        'TvAgro. (2021). <em>Manejo y conservación de suelos en agroecología</em> [Video]. YouTube',
+        'TvAgro. (2021). <em>Manejo y conservación de suelos en agroecología</em> [Video]. YouTube.',
       tipo: 'Video ',
       link: 'https://www.youtube.com/watch?v=iQ19VpVJ5Pg',
     },
@@ -118,7 +118,7 @@ export default {
       tema: 'Plan de manejo ambiental ',
       referencia:
         'Acevedo, A. y Jiménez, N. (Comp.) (2019). <em>Agroecología, experiencias comunitarias para la agricultura familiar en Colombia.</em> Universidad del Rosario. ',
-      tipo: 'Guía',
+      tipo: 'PDF',
       link: 'https://www.fao.org/3/i8864es/I8864ES.pdf',
     },
   ],
@@ -183,7 +183,7 @@ export default {
     },
     {
       referencia:
-        'Cassma Consultores. (2018). <em> Plan de Manejo Ambiental (PMA). Cassma Consultores.</em> Cassma Consultores.',
+        'Cassma Consultores. (2018). <em>Plan de Manejo Ambiental (PMA)</em>. Cassma Consultores.',
       link: 'http://www.cassmaconsultores.com/plan-de-manejo-ambiental-pma/',
     },
     {

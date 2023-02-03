@@ -97,7 +97,7 @@
 
                 .col-md-6
                   //h4.txt-tabs-tema3 Evaluación del suelo
-                  p.txt-tabs-tema3 La evaluación del suelo se puede realizar de dos maneras. La forma cualitativa no implica la realización de análisis especializados o de costo elevado, se basa en la obtención de información del suelo utilizando los sentidos (vista, olfato y tacto), considerándose como una herramienta útil al momento de evaluar los cambios que se presentan en el suelo y ayudando a tomar de decisiones sobre su uso sostenible.
+                  p.txt-tabs-tema3 La evaluación del suelo se puede realizar de dos maneras: cualitativa y cuantitativa. La forma cualitativa no implica la realización de análisis especializados o de costo elevado, se basa en la obtención de información del suelo, utilizando los sentidos (vista, olfato y tacto), considerándolo como una herramienta útil, al momento de evaluar los cambios que se presentan en el suelo y tomando decisiones sobre su uso sostenible.
               
 
 

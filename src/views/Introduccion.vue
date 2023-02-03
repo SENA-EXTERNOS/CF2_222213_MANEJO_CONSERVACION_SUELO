@@ -20,6 +20,9 @@
             br
             br
             |El manejo y la conservación del suelo, requiere de conocimientos básicos sobre acciones pertinentes para intervenir este recurso, procurando, siempre, su sostenibilidad frente a formas de uso y conservación. Sumado a esto, se deben implementar estrategias para el diseño de recursos de apoyo estructural por medio de prácticas agrícolas sostenibles y amigables con el medio ambiente.
+            br
+            br
+            | En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo. 
       
       .col-md.col-lg-5
         figure

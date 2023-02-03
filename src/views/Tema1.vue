@@ -10,7 +10,7 @@
     .tarjeta.fondo-tema1_1.px-5.py-2(style='background-color: #594e38').mb-5
       .row.align-items-center.justify-content-center
         .col-lg-8
-            p.text-white.mb-0 El suelo, como recurso, puede definirse como la capa de tierra en la cual se encuentran los nutrientes necesarios para el desarrollo de los seres vivos, este, además de estar formado por una mezcla de minerales y materiales orgánicos, también está formado por agua, aire y microorganismos que cumplen funciones en su interior. La formación del suelo tarda miles de años, pero los efectos de prácticas inadecuadas, sobre todo por parte del hombre, son rápidamente evidenciados en él.
+            p.text-white.mb-0 El suelo, como recurso, puede definirse como la capa de tierra en la cual se encuentran los nutrientes necesarios para el desarrollo de los seres vivos. Este, además de estar formado por una mezcla de minerales y materiales orgánicos, también está conformado por agua, aire y microorganismos que cumplen funciones en su interior. La constitución del suelo tarda miles de años, pero los efectos de prácticas inadecuadas, sobre todo por parte del hombre, son rápidamente evidenciados en su esencia. 
 
         
         .col-lg-4
@@ -117,9 +117,9 @@
             img(data-aos="fade-left")(src="@/assets/curso/temas/img-tecnicas-de-conservacion-tema1.png")
         .col-lg-8
           
-          p.text-white.mb-0 El manejo adecuado del suelo como capa externa de la tierra y como factor determinante en ciclos de transformación de nutrientes para la satisfacción de necesidades humanas y la protección de la biodiversidad, con las técnicas apropiadas es posible recuperarlo, como veremos a continuación.
+          p.text-white.mb-0 El manejo adecuado del suelo como capa externa de la tierra, es un factor determinante en ciclos de transformación de nutrientes, para la satisfacción de necesidades humanas y protección de la biodiversidad. Mediante la aplicación de técnicas apropiadas, es posible recuperarlo; seguidamente, conoceremos cómo.
 
-    p Las prácticas inadecuadas en el desarrollo de actividades agrícolas y productivas generan pérdida del potencial productivo haciendo necesaria la implementación de técnicas de conservación del suelo.
+    p Las prácticas inadecuadas en el desarrollo de actividades agrícolas y productivas, generan pérdida del potencial productivo, haciendo necesaria la implementación de técnicas de conservación del suelo. 
 
 
 
@@ -336,11 +336,10 @@
 
     .row.container.justify-content-around.align-items-center
 
-      p A continuación, se encuentran, entre los tipos de manejo del suelo, algunas medidas que permiten mejorar el rendimiento de los cultivos y la estructura del suelo.
 
       h4 Medidas de manejo de suelos
 
-      p Entre los tipos de manejo del suelo, hay algunas medidas que permiten mejorar el rendimiento de los cultivos y la estructura del suelo, del cual depende, en gran medida, el desarrollo de la sociedad y las formas de establecer sistemas productivos, ya sean urbanos o rurales. conozcámoslos a continuación:
+      p Entre los tipos de manejo del suelo, hay algunas medidas que permiten mejorar el rendimiento de los cultivos y la estructura del suelo, del cual depende, en gran medida, el desarrollo de la sociedad y las formas de establecer sistemas productivos, ya sean urbanos o rurales. Conozcámoslos a continuación:
 
 
       ImagenInfografica.color-primario
@@ -400,7 +399,6 @@
       br
       br 
       
-      h4 Diversificación funcional
 
       
       .col-lg-6.fondo-diversificacion-funcional.tarjeta
@@ -484,9 +482,9 @@
     br
     br
 
-    .row.container.justify-content-around.align-items-center
+    .row.container.justify-content-around.align-items-center.mb-5
       
-      .row 
+      .row.mb-5
         figure
             img(src='@/assets/curso/temas/fondo-tarje-manejo-agroecologico2.png', alt='Texto que describa la imagen').fondo-tarje-manejo-agroecologico
 
@@ -502,74 +500,40 @@
             figure
                 img(src='@/assets/curso/temas/img-tarje-manejo-agroecologico.png', alt='Texto que describa la imagen').img-tarje-manejo-agroecologico
 
-    br
-    br
-    br
 
-    .row.container.justify-content-around.align-items-center
-
-
-      
-      .col-lg-6.fondo-diversificacion-funcional.tarjeta
-
-        .row.justify-content-between.align-items-center
-
-
-          .col.mb-3.mb-sm-0
-            //h3.mb-1 Título del recurso
-            .bloque-diversificacion-funcional
-              .anexo__icono
-                img(src="@/assets/template/icono-pdf.svg")
-              .anexo__texto
-                p.texto-diversificacion-funcional Abonos orgánicos y biofertilizantes
-                p.texto-invisible Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            
-            
-          .col-sm-auto
-            .boton-descargar-diversificacion-funcional
-              a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/Anexo_3_CF2_Abonos organicos y biofertilizantes.pdf')" target="_blank")
-                span Descargar
-                i.fas.fa-file-download
-
-      p.texto-inf-diversificacion-funcional Así mismo, existen fertilizantes líquidos que pueden ser adheridos al suelo para mejorar la estructura, textura y contenido de materia presente en suelos que, en muchos casos, se encuentran desgastados a causa de las actividades agropecuarias.  
-    
-    br
-    br
-
-    .row.container.justify-content-around.align-items-center
-
-
-        .col-lg-6.fondo-diversificacion-funcional.tarjeta
-
-            .row.justify-content-between.align-items-center
-
-
-              .col.mb-3.mb-sm-0
-                //h3.mb-1 Título del recurso
-                .bloque-diversificacion-funcional
-                  .anexo__icono
-                    img(src="@/assets/template/icono-pdf.svg")
-                  .anexo__texto
-                    p.texto-diversificacion-funcional Abonos orgánicos líquidos
-                    p.texto-invisible Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                
-                
-              .col-sm-auto
-                .boton-descargar-diversificacion-funcional
+    .row.justify-content-center.mb-5
+      .col-lg-8
+        .tarjeta.color-secundario.p-3.mb-5
+          .row.justify-content-center.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/template/icono-pdf.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h3.mb-1 Abonos orgánicos y biofertilizantes
+                .col.mb-3.mb-sm-0
+                  a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/Anexo_3_CF2_Abonos organicos y biofertilizantes.pdf')" target="_blank")
+                    span Descargar 
+                    i.fas.fa-file-download
+    p.mb-5  Así mismo, existen fertilizantes líquidos que pueden ser adheridos al suelo, para mejorar la estructura, textura y contenido de materia, presentes en suelos que, en muchos casos, se encuentran desgastados a causa de las actividades agropecuarias:  
+    .row.justify-content-center.mb-5
+      .col-lg-8
+        .tarjeta.color-secundario.p-3.mb-5
+          .row.justify-content-center.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/template/icono-pdf.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h3.mb-1 Abonos orgánicos líquidos
+                .col.mb-3.mb-sm-0
                   a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/Anexo_6_CF2_Abonos orgánicos Líquidos.pdf')" target="_blank")
-                    span Descargar
+                    span Descargar 
                     i.fas.fa-file-download
 
-
-    br
-    br
-    br
-
-    .row.container.justify-content-around.align-items-center
-
       
-      h4 Biopreparados
-      p Los #[b biopreparados] son técnicas que mantienen el aspecto natural del suelo, evitando la contaminación y controlando la propagación de enfermedades y plagas. A partir de los principios activos que los componen, los biopreparados, o preparados biológicos, funcionan aportando materia orgánica y agentes que atacan plagas y enfermedades en los cultivos.
+    h4 Biopreparados
+    p Los #[b biopreparados] son técnicas que mantienen el aspecto natural del suelo, evitando la contaminación y controlando la propagación de enfermedades y plagas. A partir de los principios activos que los componen, los biopreparados, o preparados biológicos, funcionan aportando materia orgánica y agentes que atacan plagas y enfermedades en los cultivos.
 
       
       .bg--img_03.bloque-acordeon-tema1
@@ -611,11 +575,7 @@
     .row.container.justify-content-around.align-items-center
 
       h4 Tipos de biopreparados
-
-      p Los biopreparados actúan de acuerdo al modo de acción por la forma como actúan en las plantas cuando se aplican y se clasifican de acuerdo al modo de preparación, como veremos a continuación en la siguiente ilustración.
-      br
-      br
-      br
+      p Los biopreparados se clasifican según el modo de acción sobre las plantas, y de acuerdo con la forma de preparación, como se muestra en la siguiente ilustración:
 
       .row 
         .col-lg-12.bloque-img-biopreparados
@@ -734,7 +694,7 @@ export default {
       {
         titulo: 'Recurso suelo',
         texto:
-          'Manejar el suelo de manera sustentable es una prioridad, en especial, para la seguridad alimentaria y el futuro sostenible de la humanidad. La sostenibilidad, a grandes rasgos, se refiere a la capacidad de mantener un mismo estado, durante bastante cantidad de tiempo, aplicando esta noción al suelo como recurso; o sea que la permanencia es la constante conferida al suelo, para conservar sus características biológicas, físicas y químicas, sin disminuir sus potenciales productivos, o su calidad, durante un largo periodo de tiempo.',
+          'Manejar el suelo de manera sustentable es una prioridad, en especial, para la seguridad alimentaria y el futuro sostenible de la humanidad. La sostenibilidad, a grandes rasgos, se refiere a la capacidad de mantener un mismo estado, durante bastante cantidad de tiempo, aplicando esta noción al suelo como recurso; o sea, que la permanencia es la constante conferida al suelo, para conservar sus características biológicas, físicas y químicas, sin disminuir sus potenciales productivos, o su calidad, durante un largo periodo de tiempo.',
         imagen: require('@/assets/curso/temas/img1-slider2-tema1.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
