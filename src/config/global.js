@@ -98,7 +98,7 @@ export default {
       referencia:
         'Gómez, N., Solorzano, M. & Villagra, K. (2017). La labranza mecanizada y su impacto en la conservación del suelo. <em>Tecnología en Marcha,</em> 31(1), p.170-180.',
       tipo: 'Revisión literaria ',
-      link: 'https://www.doi.org/10.18845/tm.v31i1.3506',
+      link: 'https://dialnet.unirioja.es/descarga/articulo/7438122.pdf',
     },
     {
       tema: 'Conservación del suelo',
@@ -119,7 +119,8 @@ export default {
       referencia:
         'Acevedo, A. y Jiménez, N. (Comp.) (2019). <em>Agroecología, experiencias comunitarias para la agricultura familiar en Colombia.</em> Universidad del Rosario. ',
       tipo: 'PDF',
-      link: 'https://www.fao.org/3/i8864es/I8864ES.pdf',
+      link:
+        'https://www.semillas.org.co/apc-aa-files/5d99b14191c59782eab3da99d8f95126/agroecologia-experiencias-comunitarias-para-la-agricultura-familiar-en-colombia-1-1.pdf',
     },
   ],
   glosario: [
@@ -184,7 +185,6 @@ export default {
     {
       referencia:
         'Cassma Consultores. (2018). <em>Plan de Manejo Ambiental (PMA)</em>. Cassma Consultores.',
-      link: 'http://www.cassmaconsultores.com/plan-de-manejo-ambiental-pma/',
     },
     {
       referencia:
