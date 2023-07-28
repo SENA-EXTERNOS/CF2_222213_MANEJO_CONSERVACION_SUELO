@@ -85,7 +85,7 @@
                   span
                     <em>Estructura del plan de manejo ambiental</em>
               figure
-                img(data-aos="flip-right")(src='@/assets/curso/temas/img-estruct-plan-manej-animal-tema2.png', alt='Texto que describa la imagen')
+                img(data-aos="flip-right")(src='@/assets/curso/temas/img-estruct-plan-manej-animal-tema2.svg', alt='Texto que describa la imagen')
 
     br
     br

@@ -23,7 +23,7 @@
                 .col-12
                   p.texto-acordeon-tema3.mb-0 Busca realizar un análisis de los componentes del suelo, así como de las prácticas que ocasionan su degradación. Parte de información secundaria, recorridos en campo y talleres de construcción colectiva que fomentan la organización, colaboración y concientización de las comunidades, creando, así, un espacio para compartir conocimientos técnicos y tradicionales.
 
-              .row(titulo="Trabajo Colaborativo")
+              .row(titulo="Trabajo colaborativo")
                 .col-12
                   p.texto-acordeon-tema3.mb-0 Se lleva a cabo realizando mesas de trabajo colaborativas, en donde los actores de la zona participan activamente.
 
