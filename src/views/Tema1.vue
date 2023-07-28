@@ -39,7 +39,7 @@
 
           .col-md-6.mb-4.mb-md-0
             .txt-slider-tema1
-              h4 Base de la Sociedad
+              h4 Base de la sociedad
               p Es por esto que el suelo ha sido fundamental para las sociedades humanas. Por generaciones, ha proporcionado espacios para asentarse y vivir, garantizando soberanía alimentaria gracias a la posibilidad de cultivar sobre él todo tipo de alimentos, lo que, a su vez, garantiza solvencia económica con la venta de lo cultivado.
 
           
