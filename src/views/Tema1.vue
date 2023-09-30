@@ -555,7 +555,7 @@
                 .col-12
                   p.mb-0 Controlar las plagas de manera natural, se refiere a una forma de controlarlas en la que no se utilizan sustancias químicas, se producen diferentes tipos de recetas para las cuales se utilizan insectos, aves, animales, plantas, bioinsecticidas, técnicas manuales o sustancias naturales, capaces de controlarlas o eliminarlas.
 
-              .row(titulo="Infusiones, macerados y cocciones")
+              //.row(titulo="Infusiones, macerados y cocciones")
                 .col-12
                   p.mb-0 Los más utilizados en la agricultura tradicional provienen de infusiones, macerados y algunos tipos de cocciones, presentan beneficios como la disminución del uso de insecticidas, no generan resistencia en las plagas, no afectan a la salud humana, son económicos y se degradan con gran facilidad.
 
